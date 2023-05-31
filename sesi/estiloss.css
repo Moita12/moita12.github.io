@@ -1,0 +1,99 @@
+.estilo1{
+    font-size: 20px;
+    font-family:sans-serif;
+    text-align:center;
+    color:darkblue;
+    border-color: black;
+    border-radius:2%;
+    border-style: dashed;
+    border-color: red;
+    background-color: blue;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0,5);
+}
+.estilo2{
+    font-size: 20px;
+    font-family:sans-serif;
+    text-align:center;
+    color: limegreen;
+    border-color: black;
+    border-radius:2%;
+    border-style: dashed;
+    border-color: lime;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+.estilo3{
+    font-size: 20px;
+    font-family:sans-serif;
+    text-align:center;
+    color:darkcyan;
+    border-color: black;
+    border-radius:2%;
+    border-style: dashed;
+    border-color: cyan;
+    background-color: blue;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0,5);
+}
+.estilo5{
+    font-size: 20px;
+    font-family:sans-serif;
+    text-align:center;
+    color:olive;
+    border-radius:2%;
+    border-style: dashed;
+    border-color: olive;
+    background-color: blue;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0,5);
+}
+.estilo4{
+    font-size: 20px;
+    font-family:sans-serif;
+    text-align:center;
+    color:purple;
+    border-color: black;
+    border-radius:2%;
+    border-style: dashed;
+    border-color: purple;
+    background-color: blue;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0,5);
+}
+.imagem{
+    border:5px solid #ccc;
+}
+.background{
+    background-image: linear-gradient(orange red);
+}
+.button{
+    padding: 10px 8px;
+    width: 500px;
+    color:greenyellow;
+    background:darkcyan;
+    border: 2px solid;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+}
+.button:hover{
+    background:darkgreen;
+}
+

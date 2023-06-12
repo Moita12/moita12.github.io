@@ -184,6 +184,19 @@ body{
     width: 400px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
 }
+.cores{
+    border-style:solid;
+    text-align: center;
+    border-color: rgb(76, 255, 5);
+    float: left;
+    margin:20px;
+    font-family:sans-serif;
+    background-color: rgba(255, 255, 255, 0.449);
+    align-items:flex-start;
+    height: 230px;
+    width: 400px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
+}
 .titulo{
     font-size: 25px;
     font-style:oblique;
@@ -195,6 +208,25 @@ body{
 }
 .imagem{
     border-radius: 50%;
+}
+.imagemperfil{
+    border-radius: 50%;
+    margin: 10px;
+    box-shadow: 0px 0px 10px 5px rgb(0, 255, 217);
+}
+.linkedin{
+    float: left;
+}
+.caixaperfil{
+    border-style:solid;
+    text-align: center;
+    border-color: rgb(255, 255, 255);
+    font-family:sans-serif;
+    background-color: rgba(255, 255, 255, 0.449);
+    height: 50px;
+    width: 600px;
+    margin-bottom: 10px;
+    box-shadow: 0px 0px 10px rgb(255, 255, 255);
 }
 
 
